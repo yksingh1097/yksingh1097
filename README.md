@@ -18,7 +18,7 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 
 ## 2. WhatsApp group contacts exporter
 
-Chrome extension that exports WhatsApp Web group members to Excel in one click. Names, numbers, group name, no servers involved. 
+Chrome extension with 200+ active users that exports WhatsApp Web group members to Excel in one click. Names, numbers, group name, no servers involved.
 [WhatsApp group contacts exporter](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en)
 
 
