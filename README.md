@@ -13,3 +13,11 @@ Stack: Java 21 + Spring Boot backend, plain JS/HTML/CSS frontend with no build s
 Backend design: message lifecycle as a formal state machine, pluggable hint generation via Strategy + Factory, a Chain of Responsibility moderation pipeline every message passes through, and a Facade coordinating state, timers, and events.
 
 Built and shipped solo, deployment, database, moderation, real-time push, and CI all wired up end to end.
+
+
+
+
+
+## Some Practice to keep hands dirty
+
+I have been doing some practice to keep my hands dirty every now and then. 
