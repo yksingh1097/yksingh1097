@@ -20,4 +20,4 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 
 ## Some Practice to keep hands dirty
 
-I have been doing some practice to keep my hands dirty every now and then. Here is the [https://github.com/yksingh1097/yksingh1097-practice](repo) 
+I have been doing some practice to keep my hands dirty every now and then. Here is the [repo](https://github.com/yksingh1097/yksingh1097-practice) 
