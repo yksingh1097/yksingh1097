@@ -16,9 +16,14 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 
 
 
+## 2. WhatsApp group contacts exporter
+
+Chrome extension that exports WhatsApp Web group members to Excel in one click. Names, numbers, group name, no servers involved. 
+[WhatsApp group contacts exporter](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en)
 
 
 
-## 2. Some Practice to keep hands dirty
+
+## 3. Some Practice to keep hands dirty
 
 I have been doing some practice to keep my hands dirty every now and then. Here is the [repo](https://github.com/yksingh1097/yksingh1097-practice) 
