@@ -4,7 +4,7 @@ I am a software developer with 3.8 years of experience into backend softwares, I
 
 
 🔗 Veil — anonymous messaging with a real reveal mechanic
-heyveil.com · Live, deployed, real users
+[heyveil.com](https://heyveil.com) · Live, deployed, real users
 Anonymous-messaging app (NGL/Sendit category) with two things that set it apart from the usual playbook:
 Partial reveal hints — the recipient can spend a hint to learn a real clue about the sender (first letter, vibe emoji, or context like "someone from your gym"). A hint is only ever offered if the sender actually supplied that info when sending — never guessed or faked.
 Mutual reveal — the recipient can request a full reveal, but it only happens if the anonymous sender also agrees, within a 10-minute window. No response = stays anonymous forever. (This is the opposite of a well-known competitor's mechanic, which got them an FTC fine in 2024 for a reveal button that usually just showed a random guess.)
