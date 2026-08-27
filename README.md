@@ -18,6 +18,7 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 
 ## 2. WhatsApp group contacts exporter
 [Chrome web store link](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, real users.
+
 Chrome extension with 200+ active users that exports WhatsApp Web group members to Excel in one click. Names, numbers, group name, no servers involved.
 
 
@@ -25,5 +26,6 @@ Chrome extension with 200+ active users that exports WhatsApp Web group members 
 
 
 ## 3. Some Practice to keep hands dirty
+Here is the [repo](https://github.com/yksingh1097/yksingh1097-practice) 
 
-I have been doing some practice to keep my hands dirty every now and then. Here is the [repo](https://github.com/yksingh1097/yksingh1097-practice) 
+I have been doing some practice to keep my hands dirty every now and then. 
