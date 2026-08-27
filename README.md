@@ -17,9 +17,12 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 
 
 ## 2. WhatsApp group contacts exporter
-[Chrome web store link](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, real users.
+- [Chrome web store link](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, real users.
+  
+- [Extension website](https://whatsapp-group-exporter-pricing-page-bc1e93.gitlab.io/) where users can read TOS, Privacy Policy and Buy me a Coffee ☕🤭 using Paypal
 
-Chrome extension with 200+ active users that exports WhatsApp Web group members to Excel in one click. Names, numbers, group name, no servers involved.
+  
+Chrome extension with 200+ active users that exports WhatsApp Web group members to Excel in one click. Names, numbers, group name, no servers involved. I included Paypal as payment gateway so that users can buy me a coffee. Payment gateway page can be checked [here](https://whatsapp-group-exporter-pricing-page-bc1e93.gitlab.io/#/coffee).
 
 
 
