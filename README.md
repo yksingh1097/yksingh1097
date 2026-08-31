@@ -19,7 +19,7 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 
 ## 2. WhatsApp group contacts exporter
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, **140+ users** and **5.0**★ **rating**.
+[Chrome Web Store](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, **150+ users** and **5.0**★ **rating**.
 
 [Extension website](https://whatsapp-group-exporter-pricing-page-bc1e93.gitlab.io/) - terms, privacy policy and support.
 
