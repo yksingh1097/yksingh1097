@@ -4,7 +4,7 @@ I am a software developer with 3.8 years of experience into backend softwares, I
 
 ## 1. Veil - anonymous messaging with a real reveal mechanic
 
-[heyveil.com](https://heyveil.com) - live, deployed, **real users.**
+[heyveil.com](https://heyveil.com) - deployed and live. 
 
 Anonymous messaging app which can be used to becomes more social with partial reveal hints let the recipient spend a hint to learn a real clue about the sender (first letter, vibe emoji, or context like "someone from your gym"), only ever offered if the sender actually gave that info while sending, never guessed or faked. Mutual reveal lets the recipient request a full reveal, but it only unlocks if the anonymous sender also agrees within a 10 minute window, otherwise it stays anonymous forever, the opposite of a well known competitor's mechanic that got them an FTC fine in 2024 for a reveal button that usually just showed a random guess.
 
@@ -19,7 +19,7 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 
 ## 2. WhatsApp group contacts exporter
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, **150+ users** and **5.0**★ **rating**.
+[Chrome Web Store](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, **160+ users** and **5.0**★ **rating**.
 
 [Extension website](https://whatsapp-group-exporter-pricing-page-bc1e93.gitlab.io/) - terms, privacy policy and support.
 
