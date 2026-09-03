@@ -5,7 +5,7 @@ I am a software developer with 3.8 years of experience into backend softwares, I
 
 ## 1. WhatsApp group contacts exporter
 
-[Chrome Web Store](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, **190+ users**  in just */4 months** with **5.0**★ **rating**.
+[Chrome Web Store](https://chromewebstore.google.com/detail/free-whatsapp-group-conta/ijekcincilbglbhdfgkkaingmbckgpdj?authuser=0&hl=en) - live, deployed, **190+ users**  in just **4 months** with **5.0**★ **rating**.
 
 [Extension website](https://whatsapp-group-exporter-pricing-page-bc1e93.gitlab.io/) - terms, privacy policy and support.
 
