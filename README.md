@@ -1,4 +1,4 @@
-<!--
+
 Hi, I'm Yashkirat 👋
 I am a software developer with 3.8 years of experience into backend softwares, I love building things, especially when I have to work upon them all my own, I love owning things! You can find below some of the things I have been working on. 
 
@@ -58,4 +58,3 @@ Built and shipped solo, deployment, database, moderation, real-time push, and CI
 Here is the [repo](https://github.com/yksingh1097/yksingh1097-practice) 
 
 I have been doing some practice to keep my hands dirty every now and then. 
--->
